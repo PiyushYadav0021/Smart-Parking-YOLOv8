@@ -31,7 +31,7 @@ You can download the full dataset here:
 
 ## 🎥 Preview
 ## 🎥 Preview
-![Preview](images/879.jpeg)
+![Preview](images/879.jpg)
 
 
 ![Preview](images/987.png)
