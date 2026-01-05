@@ -29,11 +29,10 @@ You can download the full dataset here:
 * `Smart_Parking_YOLOv8.ipynb`: The main notebook containing training and detection code.
 * `best.pt`: (Optional) The trained model weights.
 
-## 🎥 Preview
-## 🎥 Preview
+## 🎥 Preview of original
 ![Preview](images/879.jpg)
 
-
+## 🎥 Preview of tested image
 ![Preview](images/987.png)
 
 ---
