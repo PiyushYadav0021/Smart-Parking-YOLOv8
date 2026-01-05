@@ -30,7 +30,7 @@ You can download the full dataset here:
 * `best.pt`: (Optional) The trained model weights.
 
 ## 🎥 Preview
-![Preview](images/1.png)
+![Preview](images/987.png)
 
 ---
 *Created by Piyush Yadav*
