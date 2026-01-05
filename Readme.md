@@ -30,6 +30,10 @@ You can download the full dataset here:
 * `best.pt`: (Optional) The trained model weights.
 
 ## 🎥 Preview
+## 🎥 Preview
+![Preview](images/879.jpeg)
+
+
 ![Preview](images/987.png)
 
 ---
