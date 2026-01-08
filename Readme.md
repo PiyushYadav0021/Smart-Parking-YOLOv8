@@ -1,6 +1,6 @@
 # 🚗 Smart Parking Space Detection System (YOLOv8)
-# Empty = 
-# Occupied = 
+# Empty = Sky Blue
+# Occupied = Dark Blue
 
 ## 📌 Project Overview
 This project utilizes the **YOLOv8 (You Only Look Once)** deep learning model to detect and count available parking spaces in real-time. The system is trained on a custom dataset to distinguish between **"space-empty"** and **"space-occupied"** classes, providing a solution for automated parking management.
