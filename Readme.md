@@ -7,7 +7,7 @@ This project utilizes the **YOLOv8 (You Only Look Once)** deep learning model to
 * **Model:** YOLOv8 (Ultralytics)
 * **mAP50 Accuracy:** 99.5%
 * **Precision:** High detection rate even in dense parking lots.
-* **Training Epochs:** 5
+* **Training Epochs:** 50
 
 ## 📂 Dataset
 The model was trained on the **Parking Lot Database for YOLO**.
